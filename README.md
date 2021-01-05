@@ -7,9 +7,13 @@ The structure of this repo will be as following:
 - Mathematics
 - SQL
 - Programming
-- Python
-- Julia
-- C#
+  - Python
+  - Julia
+  - C#
 - Data Exploration and Preparation
 - Machine Learning
-- Data Science Project
+  - Supervised learning
+  - Unsupervised learning
+  - Reinforcement Learning
+- Data Science Projects
+  -
