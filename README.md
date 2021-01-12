@@ -1,4 +1,4 @@
-## study-guide-machine-learning
+# study-guide-machine-learning
 
 The goal of this repo is to include some elementary training and good practices for machine learning and data science.
 
@@ -18,7 +18,7 @@ The structure of this repo will be as following:
   - Reinforcement Learning
 - Data Science Projects
 
-# Sources:
+## Sources:
 - Data Science Roadmap: [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap/tree/master/02_Statistics)
 - Best collection of resources on Data Science: [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
 - Cheat sheets for Data Science: [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) or [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
