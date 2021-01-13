@@ -19,7 +19,7 @@ The structure of this repo will be as following:
 - Data Science Projects
 
 ## Sources:
-- Data Science Roadmap: [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap/tree/master/02_Statistics)
+- Data Science Roadmap: [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap/tree/master/02_Statistics) or (data-science-tutorials)[https://sebastianraschka.com/notebooks/python-notebooks.html]
 - Best collection of resources on Data Science: [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
 - Cheat sheets for Data Science: [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) or [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 - Blogs: [Overview Data science blogs](https://github.com/rushter/data-science-blogs)
