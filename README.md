@@ -3,7 +3,7 @@
 The goal of this repo is to include some elementary training and good practices for machine learning and data science.
 
 The structure of this repo will be as following:
-- Basics
+- [Basics](/01_Basics/01_Basics.ipynb)
 - Statistics and Probability
 - Mathematics
 - Programming
