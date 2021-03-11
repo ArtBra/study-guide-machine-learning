@@ -10,6 +10,7 @@ The structure of this repo will be as following:
   - SQL
   - Python
   - Julia
+  - JAVA
   - C#
 - Data Exploration and Preparation
 - Machine Learning
